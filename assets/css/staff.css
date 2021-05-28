@@ -37,6 +37,7 @@ td {
 .staff .text {
     margin: 0;
     padding: 0 10px 10px;
+    width: 45%;
 }
 /*.instructor td > .text:nth-child(2) {
     font-weight: 500;
